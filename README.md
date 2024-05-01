@@ -1,2 +1,2 @@
-# Healthcare Data analysis using mqsql
+# Healthcare Data Analysis using SQL
 #mysql
